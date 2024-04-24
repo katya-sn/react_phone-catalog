@@ -1,17 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.90d90e6f.css",
-    "main.js": "./static/js/main.4bfb0df8.js",
+    "main.css": "./static/css/main.0adc30f0.css",
+    "main.js": "./static/js/main.f5071d89.js",
     "static/media/tablets.svg": "./static/media/tablets.bd1c730a48c9946fb79e.svg",
-    "static/media/watch.png": "./static/media/watch.fe5f505b7a70fea52c47.png",
     "static/media/acessories.svg": "./static/media/acessories.68e051841aaaede9d701.svg",
     "static/media/phones.svg": "./static/media/phones.912cf91d54687c40a6fa.svg",
     "static/media/logo.svg": "./static/media/logo.82f82c9ade36c8bb9559.svg",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
     "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
-    "static/media/ipad.png": "./static/media/ipad.72aab464c393b9bf150f.png",
-    "static/media/iphone.png": "./static/media/iphone.1276edb43ffd711f69d0.png",
     "static/media/cart.svg": "./static/media/cart.fbb7bb4b7513df420fa1.svg",
     "static/media/heart.svg": "./static/media/heart.4acb7aa446aa8eb58f96.svg",
     "static/media/home.svg": "./static/media/home.901f72c9436f9e8c6357.svg",
@@ -32,11 +29,11 @@
     "static/media/minus.svg": "./static/media/minus.0365a13e7f5baa53bce8.svg",
     "index.html": "./index.html",
     "static/media/counter.svg": "./static/media/counter.669a6423b725907143be.svg",
-    "main.90d90e6f.css.map": "./static/css/main.90d90e6f.css.map",
-    "main.4bfb0df8.js.map": "./static/js/main.4bfb0df8.js.map"
+    "main.0adc30f0.css.map": "./static/css/main.0adc30f0.css.map",
+    "main.f5071d89.js.map": "./static/js/main.f5071d89.js.map"
   },
   "entrypoints": [
-    "static/css/main.90d90e6f.css",
-    "static/js/main.4bfb0df8.js"
+    "static/css/main.0adc30f0.css",
+    "static/js/main.f5071d89.js"
   ]
 }
